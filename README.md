@@ -14,3 +14,11 @@
 | Model | Backbone | Resolution | NDS  | mAP  |
 |:-----:|:--------:|:----------:|:----:|:----:|
 | OPEN  |  V2-99   | 640 x 1600 | 64.4 | 56.7 |
+
+## TODO
+- [ ] Release the paper.
+- [ ] Release the code of OPEN.
+
+## Acknowledgements
+We thank these great works and open-source repositories:
+[PETR](https://github.com/megvii-research/PETR), [StreamPETR](https://github.com/exiawsh/StreamPETR), and [MMDetection3D](https://github.com/open-mmlab/mmdetection3d).
