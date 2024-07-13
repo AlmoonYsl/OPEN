@@ -19,6 +19,17 @@
 - [ ] Release the paper.
 - [ ] Release the code of OPEN.
 
+## Citation
+```
+@inproceedings{
+  hou2024open,
+  title={OPEN: Object-wise Position Embedding for Multi-view 3D Object Detection},
+  author={Hou, Jinghua and Wang, Tong and Ye, Xiaoqing and Liu, Zhe and Tan, Xiao and Ding, Errui and Wang, Jingdong and Bai, Xiang},
+  booktitle={ECCV},
+  year={2024},
+}
+```
+
 ## Acknowledgements
 We thank these great works and open-source repositories:
 [PETR](https://github.com/megvii-research/PETR), [StreamPETR](https://github.com/exiawsh/StreamPETR), and [MMDetection3D](https://github.com/open-mmlab/mmdetection3d).
