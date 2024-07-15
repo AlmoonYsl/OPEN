@@ -16,6 +16,9 @@ Shi Gong <sup>2</sup>,
 <br>
 <sup>1</sup> Huazhong University of Science and Technology,
 <sup>2</sup> Baidu Inc, China
+<br>
+✉ Corresponding author.
+<br>
 
 **ECCV 2024**
 
