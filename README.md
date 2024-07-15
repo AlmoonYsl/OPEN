@@ -15,7 +15,7 @@ Shi Gong <sup>2</sup>,
 [Xiang Bai](https://xbai.vlrlab.net/) <sup>1,✉</sup>
 <br>
 <sup>1</sup> Huazhong University of Science and Technology,
-<sup>2</sup> Baidu Inc, China
+<sup>2</sup> Baidu Inc.
 <br>
 ✉ Corresponding author.
 <br>
