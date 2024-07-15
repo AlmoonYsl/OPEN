@@ -8,8 +8,8 @@
 [Tong Wang](https://scholar.google.com/citations?user=EpUu4zIAAAAJ) <sup>2</sup>,
 [Xiaoqing Ye](https://shuluoshu.github.io/)  <sup>2</sup>,
 [Zhe Liu](https://github.com/happinesslz) <sup>1</sup>,
-Shi Gong <sup>2</sup>,<br>
-[Xiao Tan](https://scholar.google.com/citations?user=R1rVRUkAAAAJ) <sup>2</sup>,
+Shi Gong <sup>2</sup>,
+[Xiao Tan](https://scholar.google.com/citations?user=R1rVRUkAAAAJ) <sup>2</sup>,<br>
 [Errui Ding](https://scholar.google.com/citations?user=1wzEtxcAAAAJ) <sup>2</sup>,
 [Jingdong Wang](https://jingdongwang2017.github.io/) <sup>2</sup>,
 [Xiang Bai](https://xbai.vlrlab.net/) <sup>1,✉</sup>
