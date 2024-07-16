@@ -35,14 +35,14 @@ which is not so friendly to existing DETR-based 3D detectors due to the lack of 
 * **2024.07.02**: OPEN has been accepted at ECCV 2024. 🎉
 
 ## Results
-* **NuScenes Val Set**
+* **nuScenes Val Set**
 
 | Model | Backbone | Resolution | NDS  | mAP  | Config | Download |
 |:-----:|:--------:|:----------:|:----:|:----:|:------:|:----:|
 | OPEN  |   R50    | 256 x 704  | 56.4 | 46.5 |       |      |
 | OPEN  |   R101   | 512 x 1408 | 60.6 | 51.6 |       |      |
 
-* **NuScenes Test Set**
+* **nuScenes Test Set**
 
 | Model | Backbone | Resolution | NDS  | mAP  | Config | Download |
 |:-----:|:--------:|:----------:|:----:|:----:|:----:|:----:|
