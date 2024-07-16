@@ -32,6 +32,7 @@ which is not so friendly to existing DETR-based 3D detectors due to the lack of 
 ![arch](assets/arch.jpg)
 
 ## News
+* **2024.07.02**: Our another work [SEED](https://github.com/happinesslz/SEED) has also been accepted at ECCV 2024. 🎉
 * **2024.07.02**: OPEN has been accepted at ECCV 2024. 🎉
 
 ## Results
