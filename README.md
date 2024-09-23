@@ -90,5 +90,5 @@ nuScenes test benchmark.
 ## Acknowledgements
 
 We thank these great works and open-source repositories:
-[PETR](https://github.com/megvii-research/PETR), [StreamPETR](https://github.com/exiawsh/StreamPETR),
+[3DPPE](https://github.com/drilistbox/3DPPE), [StreamPETR](https://github.com/exiawsh/StreamPETR),
 and [MMDetection3D](https://github.com/open-mmlab/mmdetection3d).
