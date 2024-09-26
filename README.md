@@ -45,8 +45,8 @@ nuScenes test benchmark.
 
 ## News
 
-* **2024.07.02**: Our another work [SEED](https://github.com/happinesslz/SEED) has also been accepted at ECCV 2024. 🎉
-* **2024.07.02**: OPEN has been accepted at ECCV 2024. 🎉
+* **2024.07.02**: Our another work [SEED](https://github.com/happinesslz/SEED) has also been accepted by ECCV 2024. 🎉
+* **2024.07.02**: OPEN has been accepted by ECCV 2024. 🎉
 
 ## Results
 
